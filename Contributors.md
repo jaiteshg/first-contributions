@@ -138,6 +138,7 @@ Prajwal was here.
 - [Brian Horsley](https://github.com/brianhorsley926) **Hello!**
 - [Ebrahim Al-Aghbari](https://github.com/E-Aghbari) **Remind me in 5 years.**
 - [irsyad212](https://github.com/irsyad212) **Hello!**
+- [Jaitesh](https://github.com/jaiteshg) **HELLO MY FIRST CONTRIBUTION**
 - [Mischa Tobias](https://github.com/MischaTobias) **Hey there!**
 - Hello
 - [Franklin Okoye](https://github.com/franklin-okoye) **My First Contribution**
